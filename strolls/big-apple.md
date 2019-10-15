@@ -1,62 +1,51 @@
 # Big Apple
 
-I was unsatisfied with findable internet resources about the Big Apple steps, so I made this page describing the steps
+I was unsatisfied with findable list of the Big Apple steps, so I made this page describing the steps
 as I understand them, in a table format.
 
-
-shout
-
-shout
-
-shout
-
-break
-
-stomp drags
-
-transition
-
-haleluha 
-
-drunken sailor
-
-boogie back
-
-apple jack
-
-apple jack
-
-gaze afar
-
-suzie Q
-
-suzie Q
-
-rusty dusty
-
-rusty dusty
-
-spank the baby
-
-spank the baby
-
-spank the baby
-
-spank the baby
-
-jump charleston
-
-jump charleston
-
-jump charleston
-
-weird breaks
-
-
-| First Header  | Step | Notes | 
+| #  | Step | Notes | 
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | |
-| Content Cell  | Content Cell  | |
+| 1 | shout |  |
+| 2 | shout |  |
+| 3 | shout |  |
+| 4 | break |  |
+| 5 | stomp drags |  |
+| 6 | transition |  |
+| 7 | haleluha  |  |
+| 8 | drunken sailor |  |
+| 9 | boogie back |  |
+| 10 | apple jack |  |
+| 11 | apple jack |  |
+| 12 | gaze afar |  |
+| 13 | suzie Q |  |
+| 14 | suzie Q |  |
+| 15 | rusty dusty |  |
+| 16 | rusty dusty |  |
+| 17 | spank the baby |  |
+| 18 | spank the baby |  |
+| 19 | spank the baby |  |
+| 20 | spank the baby |  |
+| 21 | jump charleston |  |
+| 22 | jump charleston |  |
+| 23 | jump charleston |  |
+| 24 | weird breaks |  |
+| 25 | claps |  London bridge section |
+| 26 | claps |  |
+| 27 | claps |  |
+| 28 | break turn |  |
+| 29 | kicks | kick stripple step |
+| 30 | 
+| 31 | 
+| 32 | fall of the log turn |  |
+| 33 | trucking | left 4, right 2, left 1 stomp off |  |
+| 34 | steps  |  |
+| 35 | fall of the rock |  |
+| 36 | haleluhas |  |
+| 37 | boogie backs |  |
+| 38 | shortie gorge |  |
+| 39 | shortie gorge |  |
+| 40 | charleston |  |
+| 41 | round the world |  |
 
 
 FIXME: Damon to complete steps here!
@@ -66,6 +55,8 @@ FIXME: Damon to complete steps here!
 
 The 
 [original clip that everybody is trying to imitate is here](https://www.youtube.com/watch?v=OfgKMfexdPQ).
+
+There is a sound synched version of this clip, TODO: link here.
 
 I like to watch the Harlem Hot Shots
 [dance the big apple](https://www.youtube.com/watch?v=E37mb1QROIw) in this clip when I need help remembering
