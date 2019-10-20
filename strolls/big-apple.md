@@ -54,7 +54,10 @@ FIXME: Damon to complete steps here!
 ## Other Resources
 
 The 
-[original clip that everybody is trying to imitate is here](https://www.youtube.com/watch?v=OfgKMfexdPQ).
+[original clip that everybody is trying to imitate is here](https://www.youtube.com/watch?v=OfgKMfexdPQ)
+but for dancers [this fixed clip](https://www.youtube.com/watch?v=mmJ3aYozGMk)
+([fixing here](https://blog.straycat.me.uk/2018/10/fixing-the-apple/)).
+
 
 There is a sound synched version of this clip, TODO: link here.
 
