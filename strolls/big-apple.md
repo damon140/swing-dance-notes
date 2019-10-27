@@ -30,7 +30,8 @@ as I understand them, in a table format.
 | 23 | jump charleston |  |
 | 24 | weird breaks |  |
 
-| #  | Ride the Pony Section | Notes | 
+| #  | Ride the Pony Section | Notes |
+| ------------- | ------------- | ------------- |
 | 26 | boogie backs | back
 | 27 | boogie backs | to partner
 | 28 | boogie backs / pony | ride the pony
@@ -46,7 +47,6 @@ as I understand them, in a table format.
 | 34 | shuffle runs
 | 35 | shuffle runs
 | 36 | shuffle runs into bridge
-
 | 37 | claps |   |
 | 38 | claps |  |
 | 39 | claps |  |
