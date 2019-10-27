@@ -30,62 +30,93 @@ as I understand them, in a table format.
 | 23 | jump charleston |  |
 | 24 | weird breaks |  |
 
-candle stick
+| #  | Ride the Pony Section | Notes | 
+| 26 | boogie backs | back
+| 27 | boogie backs | to partner
+| 28 | boogie backs / pony | ride the pony
+| 29 | boogie backs / pony | ride the pony
+| 30 | knee slaps
+| 31 | fall off the candlestick break 
 
-ride the pony/ donkey?
 
 | #  | London Bridge Section | Notes | 
 | ------------- | ------------- | ------------- |
-| 25 | claps |   |
-| 26 | claps |  |
-| 27 | claps |  |
-| 28 | break turn |  |
-| 29 | kicks | kick stripple step |
-| 30 | 
-| 31 | 
+| 32 | kick step arm turns
+| 33 | kick step arm turns other way
+| 34 | shuffle runs
+| 35 | shuffle runs
+| 36 | shuffle runs into bridge
 
+| 37 | claps |   |
+| 38 | claps |  |
+| 39 | claps |  |
+| 40 | break turn |  |
+| 41 | kicks | kick stripple step |
+| 42 | 
+| 43 | 
 
 | #  | Second Half | Notes | 
 | ------------- | ------------- | ------------- |
-| 32 | fall of the log turn |  |
-| 33 | trucking | left 4, right 2, left 1 stomp off |  |
-| 34 | steps  |  |
-| 35 | fall of the rock |  |
-| 36 | haleluhas |  |
-| 37 | boogie backs |  |
-| 38 | shortie gorge |  |
-| 39 | shortie gorge |  |
-| 40 | charleston |  |
-| 41 | round the world + steps |  |
-| 43 | knee slaps | |
-| 45 | susie q | |
-| | jump charleston | |
-| | susie q | |
-| | jump charleston | |
-| | pecks | |
-| |  | |
+| 44 | fall of the log turn |  |
+| 45 | trucking | left 4, right 2, left 1 stomp off |  |
+| 46 | steps  |  |
+| 47 | fall of the rock |  |
+| 48 | haleluhas |  |
+| 49 | boogie backs |  |
+| 50 | shortie gorge |  |
+| 51 | shortie gorge |  |
+| 52 | charleston |  |
+| 53 | round the world + steps |  |
+| 54 | knee slaps | |
+| 55 | susie q | |
+| 56 | jump charleston | |
+| 57 | susie q | |
+| 58 | jump charleston | |
+| 59 | pecks | |
+| 60 | fall of the break turn | |
+| 61 | boogie backs | |
+| 62 | mess around | |
+| 63 | mess around | |
+| 64 | mess around | |
+| 65 | break turn | | 
 
 
+| #  | Exiting! | Notes | 
+| ------------- | ------------- | ------------- |
+| 66 | break a leg | |
+| 67 | break a leg | |
+| 68 |break a leg  | |
+| 69 | break a leg | |
+| 70 |  | |
 
-FIXME: Damon to complete steps here!
+FIXME: Damon to verify steps
 
-
-## Other Resources
+## Historic Video Clips
 
 There are a lot of big apple video clips, here is a short roundup of the ones I find useful.
 
-* The [original clip that everybody is trying to imitate is here](https://www.youtube.com/watch?v=OfgKMfexdPQ)
-* For dancers [this fixed clip of the original](https://www.youtube.com/watch?v=mmJ3aYozGMk)
-([fixing blog post is here](https://blog.straycat.me.uk/2018/10/fixing-the-apple/)).
-* This more [contemporary renditionn from 2013](https://www.youtube.com/watch?v=HQrCtP7zUeo) shows how this dance is typically danced at events that I might go to, including many famous swing dancing teachers.
-* The fabulous [Harlem Hot Shots]()
-[dance the big apple in a more reconstructive style](https://www.youtube.com/watch?v=E37mb1QROIw) although the song isn't the one that I'm used to.
-* The breakdown video serious of every step, with instructions, from both the sides, that everybody refers to is the
+The [original clip from 1939 that everybody is trying to imitate is here](https://www.youtube.com/watch?v=OfgKMfexdPQ).  It is from the movie [Keep Punching](https://www.imdb.com/title/tt0135501/) and danced by [Whitey's Lindy Hoppers]().
+
+For dancers [this sound synchronisation fixed clip of the original](https://www.youtube.com/watch?v=mmJ3aYozGMk)
+([fixing blog post is here](https://blog.straycat.me.uk/2018/10/fixing-the-apple/)) is very useful.
+
+[This clip from 1959/ 1960 television](https://youtu.be/rmDe2hn7vGg) features Al Mins and Leon x from the Whitey's Lindy Hoppers clip from 19xx.  They explain then dance the first half with amazing style.
+
+## Contemporary Video Clips
+
+This more [contemporary rendition from 2013](https://www.youtube.com/watch?v=HQrCtP7zUeo) shows how this dance is typically danced at events that I might go to, including many famous swing dancing teachers.
+
+The fabulous [Harlem Hot Shots](https://en.wikipedia.org/wiki/Hot_Shots_(dance_companies)#Harlem_Hot_Shots)
+[dance the big apple in a more recreation style](https://www.youtube.com/watch?v=E37mb1QROIw) although the song isn't the one that I'm used to, and it starts after the shouts.
+
+## Lesson Video Clips
+
+The breakdown video serious of every step, with instructions, from both the sides, that everybody refers to is the
 [Patric and Natasha Big Apple Series](https://www.youtube.com/watch?v=C444gS8IcIk).
 
+## Other resources
 
-The 
-[wikipedia page](https://en.wikipedia.org/wiki/Big_Apple_(dance))
+The  [wikipedia page](https://en.wikipedia.org/wiki/Big_Apple_(dance))
 has lots of interesting background, but doesn't help you dance the routine very much!
 
 FIXME: damon needs a reference to ring dances and called big apple and African dancers.
