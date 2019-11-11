@@ -31,7 +31,7 @@ as I understand them, in a table format.
 | 22 | jump charleston |  |
 | 23 | jump charleston |  |
 | 24 | weird breaks |  |
-| #  | ** Ride the Pony Section** |  |
+| #  | **Ride the Pony Section** |  |
 | 25 | boogie backs |
 | 26 | boogie forwards to breezy knees | 
 | 27 | boogie backs |
@@ -62,29 +62,28 @@ as I understand them, in a table format.
 | 50 | boogie backs |  |
 | 51 | shortie george |  |
 | 52 | shortie george |  |
-| 52 | shortie george |  | ??? three bars of shorites?
+| 52 | shortie george |  |
 | 53 | charleston |  |
 | 54 | round the world + steps |  |
-| 55 | knee slaps | |
-| 56 | susie q | find partner |
-| 57 | jump charleston | partner swap place, left person travels behind |
-| 58 | susie q |  |
-| 59 | jump charleston | partner swap place, left person travels behind |
-| 60 | pecks | |
-| 61 | fall of the break turn | |
-| 62 | boogie backs | |
-| 63 | mess around | |
+| 55 | knee slaps |  |
+| 56 | knee slaps |  |
+| 57 | susie q | find partner |
+| 58 | jump charleston | partner swap place, left person travels behind |
+| 59 | susie q |  |
+| 60 | jump charleston | partner swap place, left person travels behind |
+| 61 | pecks | |
+| 62 | fall of the break turn | |
+| 63 | boogie backs | |
 | 64 | mess around | |
 | 65 | mess around | |
-| 66 | break turn | find an exit partner | 
+| 66 | mess around | |
+| 67 | break turn | find an exit partner | 
 | #  | **Exiting!** |  | 
-| 67 | break a leg | follow the crowd towards some imaginary exit |
-| 68 | break a leg |  |
-| 69 | break a leg  |  |
-| 70 | break a leg |  |
-| 71 |  |  |
-
-FIXME: Damon to verify steps
+| 68 | break a leg | follow the crowd towards some imaginary exit |
+| 69 | break a leg |  |
+| 70 | break a leg  |  |
+| 71 | break a leg |  |
+| 72 |  | Thank exit partner :) |
 
 ## Historic Video Clips
 
