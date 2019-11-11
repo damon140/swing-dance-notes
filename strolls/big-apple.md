@@ -3,24 +3,26 @@
 I was unsatisfied with findable list of the Big Apple steps, so I made this page describing the steps
 as I understand them, in a table format.
 
-| #  | Step | Notes | 
+| Bar #  | Step | Notes | 
 | ------------- | ------------- | ------------- |
-| 1 | shout |  |
-| 2 | shout |  |
-| 3 | shout |  |
-| 4 | break |  |
+| - | no set steps | walk on |
+| - | no set steps | into circle |
+| 1 | shouts |  |
+| 2 | shouts |  |
+| 3 | shouts |  |
+| 4 | break turn  |  |
 | 5 | stomp drags |  |
-| 6 | transition |  |
-| 7 | haleluha  |  |
-| 8 | drunken sailor |  |
+| 6 | transition | out to bigger circle |
+| 7 | rocks  |  |
+| 8 | drunken sailor | in to smaller circle |
 | 9 | boogie back |  |
 | 10 | apple jack |  |
-| 11 | apple jack |  |
+| 11 | apple jack | turn to face out of circle |
 | 12 | gaze afar |  |
 | 13 | suzie Q |  |
 | 14 | suzie Q |  |
-| 15 | rusty dusty |  |
-| 16 | rusty dusty |  |
+| 15 | rusty dusty | fall off the log transition into circle |
+| 16 | rusty dusty | out to bigger circle |
 | 17 | spank the baby |  |
 | 18 | spank the baby |  |
 | 19 | spank the baby |  |
@@ -32,62 +34,63 @@ as I understand them, in a table format.
 
 | #  | Ride the Pony Section | Notes |
 | ------------- | ------------- | ------------- |
-| 26 | boogie backs | back
-| 27 | boogie backs | to partner
-| 28 | boogie backs / pony | ride the pony
+| 25 | boogie backs |
+| 26 | boogie forwards to breezy knees | 
+| 27 | boogie backs |
+| 28 | boogie backs | to partner
 | 29 | boogie backs / pony | ride the pony
-| 30 | knee slaps
-| 31 | fall off the candlestick break 
-
+| 30 | knee slaps | away from partner
+| 31 | fall off the candlestick freeze | freeze with partner
+| 32 | kick step arm turns
+| 33 | kick step arm turns other way
 
 | #  | London Bridge Section | Notes | 
 | ------------- | ------------- | ------------- |
-| 32 | kick step arm turns
-| 33 | kick step arm turns other way
 | 34 | shuffle runs
 | 35 | shuffle runs
-| 36 | shuffle runs into bridge
-| 37 | claps |   |
-| 38 | claps |  |
+| 36 | shuffle runs
+| 37 | shuffle runs into bridge
+| 38 | claps |   |
 | 39 | claps |  |
-| 40 | break turn |  |
-| 41 | kicks | kick stripple step |
-| 42 | 
-| 43 | 
+| 40 | claps |  |
+| 41 | break turn |  |
 
 | #  | Second Half | Notes | 
 | ------------- | ------------- | ------------- |
-| 44 | fall of the log turn |  |
-| 45 | trucking | left 4, right 2, left 1 stomp off |  |
-| 46 | steps  |  |
-| 47 | fall of the rock |  |
-| 48 | haleluhas |  |
-| 49 | boogie backs |  |
-| 50 | shortie gorge |  |
+| 42 | kicks | kick stripple step kick kick tripple step kick kick |
+| 43 | turn transition | rock step lock turn ...
+| 44 | scoot | switch switch switch cross slide step
+| 45 | fall of the log turn |  |
+| 46 | trucking | left 4, right 2, left 1 stomp off |  |
+| 47 | steps  |  |
+| 48 | fall of the rock |  |
+| 49 | haleluhas |  |
+| 50 | boogie backs |  |
 | 51 | shortie gorge |  |
-| 52 | charleston |  |
-| 53 | round the world + steps |  |
-| 54 | knee slaps | |
-| 55 | susie q | |
-| 56 | jump charleston | |
-| 57 | susie q | |
-| 58 | jump charleston | |
-| 59 | pecks | |
-| 60 | fall of the break turn | |
-| 61 | boogie backs | |
-| 62 | mess around | |
+| 52 | shortie gorge |  |
+| 53 | charleston |  |
+| 54 | round the world + steps |  |
+| 55 | knee slaps | |
+| 56 | susie q | find partner |
+| 57 | jump charleston | partner swap place, left person travels behind |
+| 58 | susie q |  |
+| 59 | jump charleston | partner swap place, left person travels behind |
+| 60 | pecks | |
+| 61 | fall of the break turn | |
+| 62 | boogie backs | |
 | 63 | mess around | |
 | 64 | mess around | |
-| 65 | break turn | | 
+| 65 | mess around | |
+| 66 | break turn | | 
 
 
 | #  | Exiting! | Notes | 
 | ------------- | ------------- | ------------- |
-| 66 | break a leg | |
-| 67 | break a leg | |
-| 68 |break a leg  | |
-| 69 | break a leg | |
-| 70 |  | |
+| 67 | break a leg |  |
+| 68 | break a leg |  |
+| 69 | break a leg  |  |
+| 70 | break a leg |  |
+| 71 |  |  |
 
 FIXME: Damon to verify steps
 
