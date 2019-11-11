@@ -66,8 +66,9 @@ as I understand them, in a table format.
 | 48 | fall of the rock |  |
 | 49 | haleluhas |  |
 | 50 | boogie backs |  |
-| 51 | shortie gorge |  |
-| 52 | shortie gorge |  |
+| 51 | shortie george |  |
+| 52 | shortie george |  |
+| 52 | shortie george |  | ??? three bars of shorites?
 | 53 | charleston |  |
 | 54 | round the world + steps |  |
 | 55 | knee slaps | |
