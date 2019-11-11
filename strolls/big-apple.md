@@ -51,9 +51,9 @@ as I understand them, in a table format.
 | 40 | claps |  |
 | 41 | break turn |  |
 | #  | **Half Way!** | | 
-| 42 | kicks | kick stripple step kick kick tripple step kick kick |
-| 43 | turn transition | rock step lock turn ...
-| 44 | scoot | switch switch switch cross slide step
+| 42 | kicks | kick tripple-step kick kick tripple-step kick kick |
+| 43 | turn transition | rock step lock turn rock step kick step 
+| 44 | scoot | kick switch switch switch cross slide step
 | 45 | fall of the log turn |  |
 | 46 | trucking | left 4, right 2, left 1 stomp off |  |
 | 47 | steps  |  |
@@ -113,4 +113,4 @@ The breakdown video serious of every step, with instructions, from both the side
 The  [wikipedia page](https://en.wikipedia.org/wiki/Big_Apple_(dance))
 has lots of interesting background, but doesn't help you dance the routine very much!
 
-FIXME: damon needs a reference to ring dances and called big apple and African dancers.
+FIXME: damon needs a reference to African ring dances and called big apple
