@@ -31,7 +31,6 @@ as I understand them, in a table format.
 | 22 | jump charleston |  |
 | 23 | jump charleston |  |
 | 24 | weird breaks |  |
-
 | #  | Ride the Pony Section | Notes |
 | ------------- | ------------- | ------------- |
 | 25 | boogie backs |
@@ -43,7 +42,6 @@ as I understand them, in a table format.
 | 31 | fall off the candlestick freeze | freeze with partner
 | 32 | kick step arm turns
 | 33 | kick step arm turns other way
-
 | #  | London Bridge Section | Notes | 
 | ------------- | ------------- | ------------- |
 | 34 | shuffle runs
@@ -54,7 +52,6 @@ as I understand them, in a table format.
 | 39 | claps |  |
 | 40 | claps |  |
 | 41 | break turn |  |
-
 | #  | Second Half | Notes | 
 | ------------- | ------------- | ------------- |
 | 42 | kicks | kick stripple step kick kick tripple step kick kick |
@@ -82,12 +79,10 @@ as I understand them, in a table format.
 | 63 | mess around | |
 | 64 | mess around | |
 | 65 | mess around | |
-| 66 | break turn | | 
-
-
+| 66 | break turn | find an exit partner | 
 | #  | Exiting! | Notes | 
 | ------------- | ------------- | ------------- |
-| 67 | break a leg |  |
+| 67 | break a leg | follow the crowd towards some imaginary exit |
 | 68 | break a leg |  |
 | 69 | break a leg  |  |
 | 70 | break a leg |  |
