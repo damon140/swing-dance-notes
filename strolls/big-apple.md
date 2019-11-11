@@ -61,8 +61,8 @@ as I understand them, in a table format.
 | 49 | haleluhas |  |
 | 50 | boogie backs |  |
 | 51 | shortie george |  |
-| 52 | shortie george |  |
-| 52 | shortie george |  |
+| 52 | shortie george | slow slow slow quick quick |
+| 52 | shortie george | slow slow |
 | 53 | charleston |  |
 | 54 | round the world + steps |  |
 | 55 | knee slaps |  |
