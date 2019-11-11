@@ -1,7 +1,7 @@
 # swing-dance-notes
 Damon's swing dancing notes.  Pull requests welcome!
 
-## Hisotric Lindy Hop Choreography
+## Historic Lindy Hop Choreography
 
 * California Routine
 * First Stops
