@@ -32,10 +32,9 @@ as I understand them, in a table format.
 | 23 | jump charleston |  |
 | 24 | weird breaks |  |
 | #  | **Ride the Pony Section** |  |
-| 25 | boogie backs |
+| 25 | fish tails |
 | 26 | boogie forwards to breezy knees | 
-| 27 | boogie backs |
-| 28 | boogie backs | to partner
+| 28 | boogie backs | out of circle then toward partner
 | 29 | boogie backs / pony | ride the pony
 | 30 | knee slaps | away from partner
 | 31 | fall off the candlestick freeze | freeze with partner
