@@ -6,9 +6,6 @@ Damon's swing dancing notes.  Pull requests welcome!
 * California Routine
 * First Stops
 
-## Jazz Steps
-
-
 
 ## Strolls
 
@@ -16,12 +13,19 @@ Strolls are well know, historic, mostly solo dances where everybody knows the st
 
 * [Big Apple](strolls/big-apple.md)
 * [Shim Sham](strolls/shim-sham.md)
+* [Trickeration](strolls/trickeration.md)
+* [Mama stew](strolls/mama-stew.md)
 * Tranky Do
 * Franky Do
-* [Trickeration](strolls/trickeration.md)
-* Mama stew
 * Madison
 * Electric Slide
 
+## Jazz Steps
+
+
+
 ## Practice Routines
 * Tripple steps thing, Dax's??
+
+## Aerials
+
