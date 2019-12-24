@@ -15,7 +15,7 @@ Damon's swing dancing notes.  Pull requests welcome!
 Strolls are well know, historic, mostly solo dances where everybody knows the steps already, sort of like jazz line dances.
 
 * [Big Apple](strolls/big-apple.md)
-* Shim Sham
+* [Shim Sham](strolls/shim-sham.md)
 * Tranky Do
 * Franky Do
 * [Trickeration](strolls/trickeration.md)
