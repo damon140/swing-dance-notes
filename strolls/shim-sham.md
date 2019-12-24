@@ -2,7 +2,7 @@
 
 The shim sham is the most common stroll danced by lindy hoppers.  It is the easiest to learn.
 
-FIXME: Damon's first draft, needs checking!
+FIXME: Damon's first draft, needs to dance along with the song
 
 | Bar #  | Step | Notes | 
 | ------------- | ------------- | ------------- |
@@ -52,5 +52,6 @@ FIXME: Damon's first draft, needs checking!
 | 40 | shorty george |  |
 | 41 | boogie back |  |
 | 42 | shorty george |  |
-| 43 | no set steps | dance rest of song with a partner, solo in or in a charleston circle. |
+| 41 | boogie back |  |
+| 44 | no set steps | dance rest of song with a partner, solo in or in a charleston circle. |
 
